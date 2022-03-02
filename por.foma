@@ -1,0 +1,9 @@
+# You are provided with the following machine that defines the set of vowels in Brazilian Portuguese
+define Vowel [ a | e | i | u | á | é | í | ó | ú | ã | õ | â | ê | ô | ü | à ];
+
+
+# In this file, you should define machines that implement the rules from the Southern Brazilian Portuguese Pronunciation Exercise on pages 145-152 of the textbook.
+#
+# You will define multiple machines, and at the end of the file, compose them together in an appropriate order.
+#
+# The result of running this file should be the composed machine on the stack.
