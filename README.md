@@ -1,4 +1,4 @@
-# HW00
+# HW01
 
 In this homework, you will use foma to implement the kaNpat exercise from 
 
