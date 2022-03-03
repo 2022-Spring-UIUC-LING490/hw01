@@ -1,6 +1,6 @@
 # HW01
 
-In this homework, you will use foma to implement the kaNpat exercise from 
+In this homework, you will use foma to implement the Southern Brazilian Portuguese Pronunciation Exercise on pages 145-152 of the textbook.
 
 Your task is to implement the Brazilian Portugues exercise from the textbook.
 
